@@ -1,5 +1,5 @@
 {
-  "backendVersion": "1.0.0",
-  "downloadUrl": "https://github.com/bebright27/fmax-browser/releases/download/v1.0.0/fmax-browser.exe",
-  "changelog": "- Added new node: OpenApp\n- Fixed device connection"
+  "downloadUrl": "https://github.com/bebright27/fmax-browser/releases/download/v1.0.1/fmax-browser.exe",
+  "backendVersion": "1.0.1",
+  "changelog": "- Build backend browser terbaru`n- Includes latest F-MAX backend routes and login fixes"
 }
